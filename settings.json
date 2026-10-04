@@ -5,10 +5,10 @@
     "password": "",
     "type": "offline"
   },
-  "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+  "server": {VariantSMP
+    "ip": "variantsmp-R3z7.aternos.me",
+    "port": 33358,
+    "version": "26.2",
     "try-creative": false
   },
   "position": {
